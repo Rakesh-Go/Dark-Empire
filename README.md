@@ -24,3 +24,15 @@ If you're a creator, hacker, dreamer, or just someone who refuses to play by the
 **Stay dangerous. Stay legendary. Welcome to the Dark Empire.**
 
 *Forged in code. Ruled by vision.*
+
+## Empire Structure
+
+- **plans/** – Where the strategies are born.
+- **tools/** – Empire-forged scripts and utilities.
+- **vault/** – Classified files. Handle with care.
+- **style-weapons/** – Branding assets, designs, and drip.
+- **digital-secrets/** – Knowledge is power, packaged.
+- **empire-gear/** – Hardware hacks and gadget manuals.
+
+
+
