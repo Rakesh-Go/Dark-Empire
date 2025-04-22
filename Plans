@@ -1,1 +1,20 @@
-fgu
+# Open terminal (Git Bash if on Windows)
+git config --global user.name "Rakesh Gowda"
+git config --global user.email "rockmaskpmrock25@gmail.com"
+
+# Clone your repo
+git clone https://github.com/yourusername/Don-Plans.git
+
+# Move into repo folder
+cd Don-Plans
+
+# Add your files
+cp /path/to/your/plans/* .
+
+# Push your power
+git add .
+git commit -m "Initial Don blueprints"
+git push origin main
+git add .
+git commit -m "Added plan for Flipper Zero strategy"
+git push
